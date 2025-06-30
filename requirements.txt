@@ -4,3 +4,11 @@ matplotlib
 seaborn
 jupyter
 scikit-learn
+fastapi
+uvicorn[standard]
+mlflow
+pydantic
+joblib
+numpy
+flake8
+pytest
